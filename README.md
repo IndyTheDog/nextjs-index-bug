@@ -2,9 +2,9 @@
 
 This code was generated using:
 ```
-yarn create next-app --typescript
+npx create-next-app@canary
 ```
-and the experimental `app` feature enabled.
+and typescript and the experimental `app` feature enabled.
 
 Then the `<root>/src/app/index/page.tsx` and `<root>/src/app/notindex/page.tsx` were added with simple content:
 ```
